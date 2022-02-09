@@ -1,0 +1,10 @@
+.Box {
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+}
+
+.Box-Btn {
+    display: inline;
+    margin-top: 8em;
+}
